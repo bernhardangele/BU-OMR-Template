@@ -509,3 +509,54 @@ Questionnaire
 	2(Checkbox) 180.2  41.4   3.5   3.5 C
 	3(Checkbox) 190.2  41.4   3.5   3.5 D
 
+------------------------------------------------------------------------------
+- SDAPS -- add
+------------------------------------------------------------------------------
+Error: Need to convert the images to monochrome TIFF, however the conversion module cannot be imported. You are likely missing the OpenCV dependency.
+------------------------------------------------------------------------------
+- SDAPS -- add
+------------------------------------------------------------------------------
+Warning: Cannot convert PDF files as poppler is not installed or usable!
+Converting input files into a single temporary file.
+Error: 'NoneType' object has no attribute 'shape'
+Error: Running the conversion failed.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/sdaps/__init__.py", line 65, in main
+    return cmdline['_func'](cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/script.py", line 105, in decorated_function
+    result = function(cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/cmdline/add.py", line 132, in add
+    os.unlink(file)
+OSError: [Errno 2] No such file or directory: '/tmp/sdaps-convert-3Pzf8H.tif'
+------------------------------------------------------------------------------
+- SDAPS -- add
+------------------------------------------------------------------------------
+Warning: Cannot convert PDF files as poppler is not installed or usable!
+Converting input files into a single temporary file.
+Error: 'NoneType' object has no attribute 'shape'
+Error: Running the conversion failed.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/sdaps/__init__.py", line 65, in main
+    return cmdline['_func'](cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/script.py", line 105, in decorated_function
+    result = function(cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/cmdline/add.py", line 132, in add
+    os.unlink(file)
+OSError: [Errno 2] No such file or directory: '/tmp/sdaps-convert-2LXSH1.tif'
+------------------------------------------------------------------------------
+- SDAPS -- add
+------------------------------------------------------------------------------
+Converting input files into a single temporary file.
+Processing /tmp/sdaps-convert-Ho2iCf.tif
+Done
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+1 sheet
+1.289752 seconds per sheet
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+- SDAPS -- csvdata
+------------------------------------------------------------------------------
