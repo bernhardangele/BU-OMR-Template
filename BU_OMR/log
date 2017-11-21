@@ -1,0 +1,511 @@
+------------------------------------------------------------------------------
+- SDAPS -- setup_tex
+------------------------------------------------------------------------------
+Running pdflatex now twice to generate the questionnaire.
+Warning: Head 2 got no title.
+Running pdflatex now twice to generate the questionnaire.
+Optical Mark Recognition (OMR) form
+Date: 22.11.2017
+Author: Bournemouth University, Department of Psychology
+Questionnaire
+1(Head) Student and Exam information
+1.1(Text) Name {1}
+	0(Textbox )  13.0  54.2  59.0  12.0 
+1.2(Text) Exam {1}
+	0(Textbox )  75.5  54.2  59.0  12.0 
+1.3(Text) Date {1}
+	0(Textbox ) 138.0  54.2  59.0  12.0 
+1.4(Head) Please write the seven digits of your i- or s-Number (without the initial letter) into the $\sqcup $s and check the corresponding box below each one. Only check one box in each column.\columnbreak
+1.4.1(Choice) \hfill 1 {1}
+	0(Checkbox) 119.9  77.7   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	1(Checkbox) 129.9  77.7   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	2(Checkbox) 140.0  77.7   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	3(Checkbox) 150.0  77.7   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	4(Checkbox) 160.1  77.7   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	5(Checkbox) 170.1  77.7   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	6(Checkbox) 180.2  77.7   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	7(Checkbox) 190.2  77.7   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+1.4.2(Choice) \hfill 2 {1}
+	0(Checkbox) 119.9  83.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	1(Checkbox) 129.9  83.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	2(Checkbox) 140.0  83.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	3(Checkbox) 150.0  83.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	4(Checkbox) 160.1  83.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	5(Checkbox) 170.1  83.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	6(Checkbox) 180.2  83.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	7(Checkbox) 190.2  83.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+1.4.3(Choice) \hfill 3 {1}
+	0(Checkbox) 119.9  88.4   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	1(Checkbox) 129.9  88.4   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	2(Checkbox) 140.0  88.4   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	3(Checkbox) 150.0  88.4   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	4(Checkbox) 160.1  88.4   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	5(Checkbox) 170.1  88.4   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	6(Checkbox) 180.2  88.4   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	7(Checkbox) 190.2  88.4   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+1.4.4(Choice) \hfill 4 {1}
+	0(Checkbox) 119.9  93.8   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	1(Checkbox) 129.9  93.8   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	2(Checkbox) 140.0  93.8   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	3(Checkbox) 150.0  93.8   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	4(Checkbox) 160.1  93.8   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	5(Checkbox) 170.1  93.8   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	6(Checkbox) 180.2  93.8   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	7(Checkbox) 190.2  93.8   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+1.4.5(Choice) \hfill 5 {1}
+	0(Checkbox) 119.9  99.1   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	1(Checkbox) 129.9  99.1   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	2(Checkbox) 140.0  99.1   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	3(Checkbox) 150.0  99.1   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	4(Checkbox) 160.1  99.1   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	5(Checkbox) 170.1  99.1   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	6(Checkbox) 180.2  99.1   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	7(Checkbox) 190.2  99.1   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+1.4.6(Choice) \hfill 6 {1}
+	0(Checkbox) 119.9 104.5   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	1(Checkbox) 129.9 104.5   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	2(Checkbox) 140.0 104.5   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	3(Checkbox) 150.0 104.5   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	4(Checkbox) 160.1 104.5   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	5(Checkbox) 170.1 104.5   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	6(Checkbox) 180.2 104.5   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	7(Checkbox) 190.2 104.5   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+1.4.7(Choice) \hfill 7 {1}
+	0(Checkbox) 119.9 109.9   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	1(Checkbox) 129.9 109.9   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	2(Checkbox) 140.0 109.9   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	3(Checkbox) 150.0 109.9   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	4(Checkbox) 160.1 109.9   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	5(Checkbox) 170.1 109.9   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	6(Checkbox) 180.2 109.9   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	7(Checkbox) 190.2 109.9   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+1.4.8(Choice) \hfill 8 {1}
+	0(Checkbox) 119.9 115.2   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	1(Checkbox) 129.9 115.2   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	2(Checkbox) 140.0 115.2   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	3(Checkbox) 150.0 115.2   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	4(Checkbox) 160.1 115.2   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	5(Checkbox) 170.1 115.2   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	6(Checkbox) 180.2 115.2   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	7(Checkbox) 190.2 115.2   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+1.4.9(Choice) \hfill 9 {1}
+	0(Checkbox) 119.9 120.6   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	1(Checkbox) 129.9 120.6   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	2(Checkbox) 140.0 120.6   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	3(Checkbox) 150.0 120.6   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	4(Checkbox) 160.1 120.6   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	5(Checkbox) 170.1 120.6   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	6(Checkbox) 180.2 120.6   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	7(Checkbox) 190.2 120.6   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+1.4.10(Choice) \hfill 0 {1}
+	0(Checkbox) 119.9 126.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	1(Checkbox) 129.9 126.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	2(Checkbox) 140.0 126.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	3(Checkbox) 150.0 126.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	4(Checkbox) 160.1 126.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	5(Checkbox) 170.1 126.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	6(Checkbox) 180.2 126.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+	7(Checkbox) 190.2 126.0   3.5   3.5 \relax \ifmmode \@font@warning {Command \noexpand \Huge invalid in math mode}\fi \ifx \protect \@typeset@protect \let \@currsize \Huge \fi \fontsize {\@xxvpt }{30}\selectfont $\sqcup $
+2(Head) Questions
+2.1(Head) 
+2.1.1(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 153.1   3.5   3.5 A
+	1(Checkbox)  45.1 153.1   3.5   3.5 B
+	2(Checkbox)  55.2 153.1   3.5   3.5 C
+	3(Checkbox)  65.2 153.1   3.5   3.5 D
+2.1.2(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 158.4   3.5   3.5 A
+	1(Checkbox)  45.1 158.4   3.5   3.5 B
+	2(Checkbox)  55.2 158.4   3.5   3.5 C
+	3(Checkbox)  65.2 158.4   3.5   3.5 D
+2.1.3(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 163.6   3.5   3.5 A
+	1(Checkbox)  45.1 163.6   3.5   3.5 B
+	2(Checkbox)  55.2 163.6   3.5   3.5 C
+	3(Checkbox)  65.2 163.6   3.5   3.5 D
+2.1.4(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 168.8   3.5   3.5 A
+	1(Checkbox)  45.1 168.8   3.5   3.5 B
+	2(Checkbox)  55.2 168.8   3.5   3.5 C
+	3(Checkbox)  65.2 168.8   3.5   3.5 D
+2.1.5(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 174.0   3.5   3.5 A
+	1(Checkbox)  45.1 174.0   3.5   3.5 B
+	2(Checkbox)  55.2 174.0   3.5   3.5 C
+	3(Checkbox)  65.2 174.0   3.5   3.5 D
+2.1.6(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 179.2   3.5   3.5 A
+	1(Checkbox)  45.1 179.2   3.5   3.5 B
+	2(Checkbox)  55.2 179.2   3.5   3.5 C
+	3(Checkbox)  65.2 179.2   3.5   3.5 D
+2.1.7(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 184.4   3.5   3.5 A
+	1(Checkbox)  45.1 184.4   3.5   3.5 B
+	2(Checkbox)  55.2 184.4   3.5   3.5 C
+	3(Checkbox)  65.2 184.4   3.5   3.5 D
+2.1.8(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 189.6   3.5   3.5 A
+	1(Checkbox)  45.1 189.6   3.5   3.5 B
+	2(Checkbox)  55.2 189.6   3.5   3.5 C
+	3(Checkbox)  65.2 189.6   3.5   3.5 D
+2.1.9(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 194.8   3.5   3.5 A
+	1(Checkbox)  45.1 194.8   3.5   3.5 B
+	2(Checkbox)  55.2 194.8   3.5   3.5 C
+	3(Checkbox)  65.2 194.8   3.5   3.5 D
+2.1.10(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 200.0   3.5   3.5 A
+	1(Checkbox)  45.1 200.0   3.5   3.5 B
+	2(Checkbox)  55.2 200.0   3.5   3.5 C
+	3(Checkbox)  65.2 200.0   3.5   3.5 D
+2.1.11(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 205.2   3.5   3.5 A
+	1(Checkbox)  45.1 205.2   3.5   3.5 B
+	2(Checkbox)  55.2 205.2   3.5   3.5 C
+	3(Checkbox)  65.2 205.2   3.5   3.5 D
+2.1.12(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 210.4   3.5   3.5 A
+	1(Checkbox)  45.1 210.4   3.5   3.5 B
+	2(Checkbox)  55.2 210.4   3.5   3.5 C
+	3(Checkbox)  65.2 210.4   3.5   3.5 D
+2.1.13(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 215.6   3.5   3.5 A
+	1(Checkbox)  45.1 215.6   3.5   3.5 B
+	2(Checkbox)  55.2 215.6   3.5   3.5 C
+	3(Checkbox)  65.2 215.6   3.5   3.5 D
+2.1.14(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 220.8   3.5   3.5 A
+	1(Checkbox)  45.1 220.8   3.5   3.5 B
+	2(Checkbox)  55.2 220.8   3.5   3.5 C
+	3(Checkbox)  65.2 220.8   3.5   3.5 D
+2.1.15(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 226.0   3.5   3.5 A
+	1(Checkbox)  45.1 226.0   3.5   3.5 B
+	2(Checkbox)  55.2 226.0   3.5   3.5 C
+	3(Checkbox)  65.2 226.0   3.5   3.5 D
+2.1.16(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 231.2   3.5   3.5 A
+	1(Checkbox)  45.1 231.2   3.5   3.5 B
+	2(Checkbox)  55.2 231.2   3.5   3.5 C
+	3(Checkbox)  65.2 231.2   3.5   3.5 D
+2.1.17(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 236.4   3.5   3.5 A
+	1(Checkbox)  45.1 236.4   3.5   3.5 B
+	2(Checkbox)  55.2 236.4   3.5   3.5 C
+	3(Checkbox)  65.2 236.4   3.5   3.5 D
+2.1.18(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 241.6   3.5   3.5 A
+	1(Checkbox)  45.1 241.6   3.5   3.5 B
+	2(Checkbox)  55.2 241.6   3.5   3.5 C
+	3(Checkbox)  65.2 241.6   3.5   3.5 D
+2.1.19(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 246.8   3.5   3.5 A
+	1(Checkbox)  45.1 246.8   3.5   3.5 B
+	2(Checkbox)  55.2 246.8   3.5   3.5 C
+	3(Checkbox)  65.2 246.8   3.5   3.5 D
+2.1.20(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 252.0   3.5   3.5 A
+	1(Checkbox)  45.1 252.0   3.5   3.5 B
+	2(Checkbox)  55.2 252.0   3.5   3.5 C
+	3(Checkbox)  65.2 252.0   3.5   3.5 D
+2.1.21(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 257.2   3.5   3.5 A
+	1(Checkbox)  45.1 257.2   3.5   3.5 B
+	2(Checkbox)  55.2 257.2   3.5   3.5 C
+	3(Checkbox)  65.2 257.2   3.5   3.5 D
+2.1.22(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 262.4   3.5   3.5 A
+	1(Checkbox)  45.1 262.4   3.5   3.5 B
+	2(Checkbox)  55.2 262.4   3.5   3.5 C
+	3(Checkbox)  65.2 262.4   3.5   3.5 D
+2.1.23(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  35.1 267.6   3.5   3.5 A
+	1(Checkbox)  45.1 267.6   3.5   3.5 B
+	2(Checkbox)  55.2 267.6   3.5   3.5 C
+	3(Checkbox)  65.2 267.6   3.5   3.5 D
+2.1.24(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 153.1   3.5   3.5 A
+	1(Checkbox) 107.6 153.1   3.5   3.5 B
+	2(Checkbox) 117.7 153.1   3.5   3.5 C
+	3(Checkbox) 127.7 153.1   3.5   3.5 D
+2.1.25(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 158.4   3.5   3.5 A
+	1(Checkbox) 107.6 158.4   3.5   3.5 B
+	2(Checkbox) 117.7 158.4   3.5   3.5 C
+	3(Checkbox) 127.7 158.4   3.5   3.5 D
+2.1.26(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 163.6   3.5   3.5 A
+	1(Checkbox) 107.6 163.6   3.5   3.5 B
+	2(Checkbox) 117.7 163.6   3.5   3.5 C
+	3(Checkbox) 127.7 163.6   3.5   3.5 D
+2.1.27(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 168.8   3.5   3.5 A
+	1(Checkbox) 107.6 168.8   3.5   3.5 B
+	2(Checkbox) 117.7 168.8   3.5   3.5 C
+	3(Checkbox) 127.7 168.8   3.5   3.5 D
+2.1.28(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 174.0   3.5   3.5 A
+	1(Checkbox) 107.6 174.0   3.5   3.5 B
+	2(Checkbox) 117.7 174.0   3.5   3.5 C
+	3(Checkbox) 127.7 174.0   3.5   3.5 D
+2.1.29(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 179.2   3.5   3.5 A
+	1(Checkbox) 107.6 179.2   3.5   3.5 B
+	2(Checkbox) 117.7 179.2   3.5   3.5 C
+	3(Checkbox) 127.7 179.2   3.5   3.5 D
+2.1.30(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 184.4   3.5   3.5 A
+	1(Checkbox) 107.6 184.4   3.5   3.5 B
+	2(Checkbox) 117.7 184.4   3.5   3.5 C
+	3(Checkbox) 127.7 184.4   3.5   3.5 D
+2.1.31(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 189.6   3.5   3.5 A
+	1(Checkbox) 107.6 189.6   3.5   3.5 B
+	2(Checkbox) 117.7 189.6   3.5   3.5 C
+	3(Checkbox) 127.7 189.6   3.5   3.5 D
+2.1.32(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 194.8   3.5   3.5 A
+	1(Checkbox) 107.6 194.8   3.5   3.5 B
+	2(Checkbox) 117.7 194.8   3.5   3.5 C
+	3(Checkbox) 127.7 194.8   3.5   3.5 D
+2.1.33(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 200.0   3.5   3.5 A
+	1(Checkbox) 107.6 200.0   3.5   3.5 B
+	2(Checkbox) 117.7 200.0   3.5   3.5 C
+	3(Checkbox) 127.7 200.0   3.5   3.5 D
+2.1.34(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 205.2   3.5   3.5 A
+	1(Checkbox) 107.6 205.2   3.5   3.5 B
+	2(Checkbox) 117.7 205.2   3.5   3.5 C
+	3(Checkbox) 127.7 205.2   3.5   3.5 D
+2.1.35(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 210.4   3.5   3.5 A
+	1(Checkbox) 107.6 210.4   3.5   3.5 B
+	2(Checkbox) 117.7 210.4   3.5   3.5 C
+	3(Checkbox) 127.7 210.4   3.5   3.5 D
+2.1.36(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 215.6   3.5   3.5 A
+	1(Checkbox) 107.6 215.6   3.5   3.5 B
+	2(Checkbox) 117.7 215.6   3.5   3.5 C
+	3(Checkbox) 127.7 215.6   3.5   3.5 D
+2.1.37(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 220.8   3.5   3.5 A
+	1(Checkbox) 107.6 220.8   3.5   3.5 B
+	2(Checkbox) 117.7 220.8   3.5   3.5 C
+	3(Checkbox) 127.7 220.8   3.5   3.5 D
+2.1.38(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 226.0   3.5   3.5 A
+	1(Checkbox) 107.6 226.0   3.5   3.5 B
+	2(Checkbox) 117.7 226.0   3.5   3.5 C
+	3(Checkbox) 127.7 226.0   3.5   3.5 D
+2.1.39(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 231.2   3.5   3.5 A
+	1(Checkbox) 107.6 231.2   3.5   3.5 B
+	2(Checkbox) 117.7 231.2   3.5   3.5 C
+	3(Checkbox) 127.7 231.2   3.5   3.5 D
+2.1.40(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 236.4   3.5   3.5 A
+	1(Checkbox) 107.6 236.4   3.5   3.5 B
+	2(Checkbox) 117.7 236.4   3.5   3.5 C
+	3(Checkbox) 127.7 236.4   3.5   3.5 D
+2.1.41(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 241.6   3.5   3.5 A
+	1(Checkbox) 107.6 241.6   3.5   3.5 B
+	2(Checkbox) 117.7 241.6   3.5   3.5 C
+	3(Checkbox) 127.7 241.6   3.5   3.5 D
+2.1.42(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 246.8   3.5   3.5 A
+	1(Checkbox) 107.6 246.8   3.5   3.5 B
+	2(Checkbox) 117.7 246.8   3.5   3.5 C
+	3(Checkbox) 127.7 246.8   3.5   3.5 D
+2.1.43(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 252.0   3.5   3.5 A
+	1(Checkbox) 107.6 252.0   3.5   3.5 B
+	2(Checkbox) 117.7 252.0   3.5   3.5 C
+	3(Checkbox) 127.7 252.0   3.5   3.5 D
+2.1.44(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 257.2   3.5   3.5 A
+	1(Checkbox) 107.6 257.2   3.5   3.5 B
+	2(Checkbox) 117.7 257.2   3.5   3.5 C
+	3(Checkbox) 127.7 257.2   3.5   3.5 D
+2.1.45(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 262.4   3.5   3.5 A
+	1(Checkbox) 107.6 262.4   3.5   3.5 B
+	2(Checkbox) 117.7 262.4   3.5   3.5 C
+	3(Checkbox) 127.7 262.4   3.5   3.5 D
+2.1.46(Choice) Q\arabic {question_number} {1}
+	0(Checkbox)  97.6 267.6   3.5   3.5 A
+	1(Checkbox) 107.6 267.6   3.5   3.5 B
+	2(Checkbox) 117.7 267.6   3.5   3.5 C
+	3(Checkbox) 127.7 267.6   3.5   3.5 D
+2.1.47(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 153.1   3.5   3.5 A
+	1(Checkbox) 170.1 153.1   3.5   3.5 B
+	2(Checkbox) 180.2 153.1   3.5   3.5 C
+	3(Checkbox) 190.2 153.1   3.5   3.5 D
+2.1.48(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 158.4   3.5   3.5 A
+	1(Checkbox) 170.1 158.4   3.5   3.5 B
+	2(Checkbox) 180.2 158.4   3.5   3.5 C
+	3(Checkbox) 190.2 158.4   3.5   3.5 D
+2.1.49(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 163.6   3.5   3.5 A
+	1(Checkbox) 170.1 163.6   3.5   3.5 B
+	2(Checkbox) 180.2 163.6   3.5   3.5 C
+	3(Checkbox) 190.2 163.6   3.5   3.5 D
+2.1.50(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 168.8   3.5   3.5 A
+	1(Checkbox) 170.1 168.8   3.5   3.5 B
+	2(Checkbox) 180.2 168.8   3.5   3.5 C
+	3(Checkbox) 190.2 168.8   3.5   3.5 D
+2.1.51(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 174.0   3.5   3.5 A
+	1(Checkbox) 170.1 174.0   3.5   3.5 B
+	2(Checkbox) 180.2 174.0   3.5   3.5 C
+	3(Checkbox) 190.2 174.0   3.5   3.5 D
+2.1.52(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 179.2   3.5   3.5 A
+	1(Checkbox) 170.1 179.2   3.5   3.5 B
+	2(Checkbox) 180.2 179.2   3.5   3.5 C
+	3(Checkbox) 190.2 179.2   3.5   3.5 D
+2.1.53(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 184.4   3.5   3.5 A
+	1(Checkbox) 170.1 184.4   3.5   3.5 B
+	2(Checkbox) 180.2 184.4   3.5   3.5 C
+	3(Checkbox) 190.2 184.4   3.5   3.5 D
+2.1.54(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 189.6   3.5   3.5 A
+	1(Checkbox) 170.1 189.6   3.5   3.5 B
+	2(Checkbox) 180.2 189.6   3.5   3.5 C
+	3(Checkbox) 190.2 189.6   3.5   3.5 D
+2.1.55(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 194.8   3.5   3.5 A
+	1(Checkbox) 170.1 194.8   3.5   3.5 B
+	2(Checkbox) 180.2 194.8   3.5   3.5 C
+	3(Checkbox) 190.2 194.8   3.5   3.5 D
+2.1.56(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 200.0   3.5   3.5 A
+	1(Checkbox) 170.1 200.0   3.5   3.5 B
+	2(Checkbox) 180.2 200.0   3.5   3.5 C
+	3(Checkbox) 190.2 200.0   3.5   3.5 D
+2.1.57(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 205.2   3.5   3.5 A
+	1(Checkbox) 170.1 205.2   3.5   3.5 B
+	2(Checkbox) 180.2 205.2   3.5   3.5 C
+	3(Checkbox) 190.2 205.2   3.5   3.5 D
+2.1.58(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 210.4   3.5   3.5 A
+	1(Checkbox) 170.1 210.4   3.5   3.5 B
+	2(Checkbox) 180.2 210.4   3.5   3.5 C
+	3(Checkbox) 190.2 210.4   3.5   3.5 D
+2.1.59(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 215.6   3.5   3.5 A
+	1(Checkbox) 170.1 215.6   3.5   3.5 B
+	2(Checkbox) 180.2 215.6   3.5   3.5 C
+	3(Checkbox) 190.2 215.6   3.5   3.5 D
+2.1.60(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 220.8   3.5   3.5 A
+	1(Checkbox) 170.1 220.8   3.5   3.5 B
+	2(Checkbox) 180.2 220.8   3.5   3.5 C
+	3(Checkbox) 190.2 220.8   3.5   3.5 D
+2.1.61(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 226.0   3.5   3.5 A
+	1(Checkbox) 170.1 226.0   3.5   3.5 B
+	2(Checkbox) 180.2 226.0   3.5   3.5 C
+	3(Checkbox) 190.2 226.0   3.5   3.5 D
+2.1.62(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 231.2   3.5   3.5 A
+	1(Checkbox) 170.1 231.2   3.5   3.5 B
+	2(Checkbox) 180.2 231.2   3.5   3.5 C
+	3(Checkbox) 190.2 231.2   3.5   3.5 D
+2.1.63(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 236.4   3.5   3.5 A
+	1(Checkbox) 170.1 236.4   3.5   3.5 B
+	2(Checkbox) 180.2 236.4   3.5   3.5 C
+	3(Checkbox) 190.2 236.4   3.5   3.5 D
+2.1.64(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 241.6   3.5   3.5 A
+	1(Checkbox) 170.1 241.6   3.5   3.5 B
+	2(Checkbox) 180.2 241.6   3.5   3.5 C
+	3(Checkbox) 190.2 241.6   3.5   3.5 D
+2.1.65(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 246.8   3.5   3.5 A
+	1(Checkbox) 170.1 246.8   3.5   3.5 B
+	2(Checkbox) 180.2 246.8   3.5   3.5 C
+	3(Checkbox) 190.2 246.8   3.5   3.5 D
+2.1.66(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 252.0   3.5   3.5 A
+	1(Checkbox) 170.1 252.0   3.5   3.5 B
+	2(Checkbox) 180.2 252.0   3.5   3.5 C
+	3(Checkbox) 190.2 252.0   3.5   3.5 D
+2.1.67(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 257.2   3.5   3.5 A
+	1(Checkbox) 170.1 257.2   3.5   3.5 B
+	2(Checkbox) 180.2 257.2   3.5   3.5 C
+	3(Checkbox) 190.2 257.2   3.5   3.5 D
+2.1.68(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 262.4   3.5   3.5 A
+	1(Checkbox) 170.1 262.4   3.5   3.5 B
+	2(Checkbox) 180.2 262.4   3.5   3.5 C
+	3(Checkbox) 190.2 262.4   3.5   3.5 D
+2.1.69(Choice) Q\arabic {question_number} {1}
+	0(Checkbox) 160.1 267.6   3.5   3.5 A
+	1(Checkbox) 170.1 267.6   3.5   3.5 B
+	2(Checkbox) 180.2 267.6   3.5   3.5 C
+	3(Checkbox) 190.2 267.6   3.5   3.5 D
+2.1.70(Choice) Q\arabic {question_number} {2}
+	0(Checkbox)  35.1  31.0   3.5   3.5 A
+	1(Checkbox)  45.1  31.0   3.5   3.5 B
+	2(Checkbox)  55.2  31.0   3.5   3.5 C
+	3(Checkbox)  65.2  31.0   3.5   3.5 D
+2.1.71(Choice) Q\arabic {question_number} {2}
+	0(Checkbox)  35.1  36.2   3.5   3.5 A
+	1(Checkbox)  45.1  36.2   3.5   3.5 B
+	2(Checkbox)  55.2  36.2   3.5   3.5 C
+	3(Checkbox)  65.2  36.2   3.5   3.5 D
+2.1.72(Choice) Q\arabic {question_number} {2}
+	0(Checkbox)  35.1  41.4   3.5   3.5 A
+	1(Checkbox)  45.1  41.4   3.5   3.5 B
+	2(Checkbox)  55.2  41.4   3.5   3.5 C
+	3(Checkbox)  65.2  41.4   3.5   3.5 D
+2.1.73(Choice) Q\arabic {question_number} {2}
+	0(Checkbox)  35.1  46.6   3.5   3.5 A
+	1(Checkbox)  45.1  46.6   3.5   3.5 B
+	2(Checkbox)  55.2  46.6   3.5   3.5 C
+	3(Checkbox)  65.2  46.6   3.5   3.5 D
+2.1.74(Choice) Q\arabic {question_number} {2}
+	0(Checkbox)  97.6  31.0   3.5   3.5 A
+	1(Checkbox) 107.6  31.0   3.5   3.5 B
+	2(Checkbox) 117.7  31.0   3.5   3.5 C
+	3(Checkbox) 127.7  31.0   3.5   3.5 D
+2.1.75(Choice) Q\arabic {question_number} {2}
+	0(Checkbox)  97.6  36.2   3.5   3.5 A
+	1(Checkbox) 107.6  36.2   3.5   3.5 B
+	2(Checkbox) 117.7  36.2   3.5   3.5 C
+	3(Checkbox) 127.7  36.2   3.5   3.5 D
+2.1.76(Choice) Q\arabic {question_number} {2}
+	0(Checkbox)  97.6  41.4   3.5   3.5 A
+	1(Checkbox) 107.6  41.4   3.5   3.5 B
+	2(Checkbox) 117.7  41.4   3.5   3.5 C
+	3(Checkbox) 127.7  41.4   3.5   3.5 D
+2.1.77(Choice) Q\arabic {question_number} {2}
+	0(Checkbox)  97.6  46.6   3.5   3.5 A
+	1(Checkbox) 107.6  46.6   3.5   3.5 B
+	2(Checkbox) 117.7  46.6   3.5   3.5 C
+	3(Checkbox) 127.7  46.6   3.5   3.5 D
+2.1.78(Choice) Q\arabic {question_number} {2}
+	0(Checkbox) 160.1  31.0   3.5   3.5 A
+	1(Checkbox) 170.1  31.0   3.5   3.5 B
+	2(Checkbox) 180.2  31.0   3.5   3.5 C
+	3(Checkbox) 190.2  31.0   3.5   3.5 D
+2.1.79(Choice) Q\arabic {question_number} {2}
+	0(Checkbox) 160.1  36.2   3.5   3.5 A
+	1(Checkbox) 170.1  36.2   3.5   3.5 B
+	2(Checkbox) 180.2  36.2   3.5   3.5 C
+	3(Checkbox) 190.2  36.2   3.5   3.5 D
+2.1.80(Choice) Q\arabic {question_number} {2}
+	0(Checkbox) 160.1  41.4   3.5   3.5 A
+	1(Checkbox) 170.1  41.4   3.5   3.5 B
+	2(Checkbox) 180.2  41.4   3.5   3.5 C
+	3(Checkbox) 190.2  41.4   3.5   3.5 D
+
